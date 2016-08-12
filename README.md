@@ -1,27 +1,27 @@
 # MVC JSP
 
-![Flow](flow)
+![Flow](https://raw.githubusercontent.com/Ruslan-Aliyev/JSP-MVC/master/Illustrations/flow.PNG)
 
-![Login Page](jsp1)
+![Login Page](https://raw.githubusercontent.com/Ruslan-Aliyev/JSP-MVC/master/Illustrations/jsp1.PNG)
 
-![Simplified Model](jsp2)
+![Simplified Model](https://raw.githubusercontent.com/Ruslan-Aliyev/JSP-MVC/master/Illustrations/jsp2.PNG)
 
-![Login-is-OK page](jsp3)
+![Login-is-OK page](https://raw.githubusercontent.com/Ruslan-Aliyev/JSP-MVC/master/Illustrations/jsp3.PNG)
 
-![Project Structure](jsp4)
+![Project Structure](https://raw.githubusercontent.com/Ruslan-Aliyev/JSP-MVC/master/Illustrations/jsp4.PNG)
 
 ## Important parts of the source code
 
-![Routes](jsp5)
+![Routes](https://raw.githubusercontent.com/Ruslan-Aliyev/JSP-MVC/master/Illustrations/jsp5.PNG)
 
-![Entering the application](jsp6)
+![Entering the application](https://raw.githubusercontent.com/Ruslan-Aliyev/JSP-MVC/master/Illustrations/jsp6.PNG)
 
-![Login](jsp7)
+![Login](https://raw.githubusercontent.com/Ruslan-Aliyev/JSP-MVC/master/Illustrations/jsp7.PNG)
 
-![Controller handle the login](jsp8)
+![Controller handle the login](https://raw.githubusercontent.com/Ruslan-Aliyev/JSP-MVC/master/Illustrations/jsp8.PNG)
 
-![Model checking the login](jsp9)
+![Model checking the login](https://raw.githubusercontent.com/Ruslan-Aliyev/JSP-MVC/master/Illustrations/jsp9.PNG)
 
-![Model object](jsp10)
+![Model object](https://raw.githubusercontent.com/Ruslan-Aliyev/JSP-MVC/master/Illustrations/jsp10.PNG)
 
-![Page after successful login](jsp11)
+![Page after successful login](https://raw.githubusercontent.com/Ruslan-Aliyev/JSP-MVC/master/Illustrations/jsp11.PNG)
